@@ -309,7 +309,7 @@ Version 2.2 is supported with the following configuration:
     uart:
       baud_rate: 9600
       data_bits: 7
-      parity: NONE
+      parity: EVEN
       stop_bits: 1
 
     dsmr:
